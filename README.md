@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Rawan 👋
 
-<!--
-**rawanmontasser/rawanmontasser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Junior Data Engineer | Data Analyst
 
-Here are some ideas to get you started:
+I build data pipelines, ETL workflows, and analytical solutions, with a focus on transforming and working with large datasets.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tools & Technologies
+
+* **Languages:** Python, SQL
+* **Data Engineering:** ETL, Data Warehousing, Apache Spark, Hive, Kafka, Flume, Hadoop, HDFS
+* **Databases:** PostgreSQL, MySQL
+* **Data & ML:** Pandas, NumPy, Scikit-learn, XGBoost, PyTorch
+* **Visualization:** Power BI, Excel
+* **Cloud & Platforms:** Databricks
+* **Tools:** Docker, Git, GitHub, VS Code
+
+### 📫 Connect with Me
+
+[LinkedIn](https://www.linkedin.com/in/rawan-montasser/) • [Email](rawanmontasserr@gmail.com)
